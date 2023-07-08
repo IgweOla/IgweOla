@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgweOla
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL  and PYTHON
+- 👀 I’m interested in Data analysis
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on Data related projects
 - 📫 How to reach me ...
 mail :igweolavera@gmail.com 
